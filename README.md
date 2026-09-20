@@ -136,12 +136,4 @@ Customer-Visit-Management-Dashboard/
 │
 ├── SQL/
 │   └── database_queries.sql
-│
-├── Screenshots/
-│   ├── overview.png
-│   ├── performance_trends.png
-│   ├── visit_analysis.png
-│   ├── staff_performance.png
-│   └── staff_details.png
-│
 └── README.md
